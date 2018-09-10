@@ -11,7 +11,7 @@
 *  FriendFinder is perfect to those who don't get many opportunities to socialize and meet face to face.
   
 #### How to use FriendFinder
-*  Open the link provided in Heroku 
+*  Open the link provided in Heroku ```https://friendfinder9918.herokuapp.com/``` 
 *  Click the ```Go to Survey``` button
 *  Enter your name and link to your photo on the Survey page
 *  Answer all questions based on scale from strongly agree to strongly disagree

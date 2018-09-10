@@ -1,7 +1,7 @@
 var friendsArray = [
     {
         "name": "Alice",
-        "photo": "https://cdn.pixabay.com/photo/2013/08/13/09/35/model-172113_960_720.jpg",
+        "photo": "https://media1.popsugar-assets.com/files/thumbor/xjg-MpV1Kt8eVatEctLoWkvPiUA/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/07/10/809/n/1922283/62fdcc305b44fa420a67e9.17764123_/i/Who-Plays-Alice-Sharp-Objects.jpg",
         "scores": [
             1,
             2,

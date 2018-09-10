@@ -1,7 +1,7 @@
 ## FriendFinder
 
 #### About FriendFinder
-* FriendFinder is a compatibility-based app -- basically a dating app. This full-stack site takes in results from users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match.  
+* FriendFinder is a compatibility-based dating app. This app takes in results from users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match.  
 
 #### Why FriendFinder
 *  Let’s face it, the world of dating apps is a whole another ballgame these days.
@@ -13,11 +13,10 @@
 #### How to use FriendFinder
 *  Open the link provided in Heroku 
 *  Click the ```Go to Survey``` button
-*  You will be redirected to the Survey Questions page
-*  Enter your name and link to your photo
-*  Answers all question based on scale from strongly agree to strongly disagree
+*  Enter your name and link to your photo on the Survey page
+*  Answer all questions based on scale from strongly agree to strongly disagree
 *  Click the ```Submit``` button
-*  You will be see a name and a photo of your best match
+*  The app will display a name and a photo of your best match
 *  You have found your potential soulmate!
 
 #### How you could help
